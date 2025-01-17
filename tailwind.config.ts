@@ -8,11 +8,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        bg: "#161512",
+        body: "#161512",
         "btn-blue": "#004761",
         smoke: "#D9CBC7",
         overlay: "#0D313F",
         red: "#FF3C00",
+        green: "#1E6B5A"
       },
       borderRadius: {
         lg: "var(--radius)",

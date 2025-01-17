@@ -18,3 +18,15 @@
     @apply w-full min-h-fit px-4 py-2 md:w-[668px] mx-auto lg:w-[924px];
   }
 }
+
+.time-line-block {
+  display: grid;
+}
+
+.time-line-block:nth-child(odd) {
+  grid-template-areas: "a .";
+}
+
+.time-line-block:nth-child(even) {
+  grid-template-areas: ". b";
+}
