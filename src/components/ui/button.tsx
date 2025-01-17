@@ -22,6 +22,7 @@ const buttonVariants = cva(
         link: "text-slate-900 underline-offset-4 hover:underline dark:text-slate-50",
         blue: "bg-btn-blue text-slate-200",
         smoke: "bg-smoke text-btn-blue",
+        lightBlue: "bg-light-blue text-slate-200",
       },
       size: {
         default: "h-9 px-4 py-2",

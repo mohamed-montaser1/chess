@@ -13,7 +13,9 @@ const config: Config = {
         smoke: "#D9CBC7",
         overlay: "#0D313F",
         red: "#FF3C00",
-        green: "#1E6B5A"
+        green: "#1E6B5A",
+        "dark-blue": "#003345",
+        "light-blue": "#1D88E8",
       },
       borderRadius: {
         lg: "var(--radius)",

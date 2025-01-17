@@ -20,7 +20,7 @@ export default function Hero() {
           </h1>
           <p className="text-3xl text-slate-200 text-center">
             لا مجال للتردد. خطط بذكاء، حرك جيشك، وأثبت أنك{" "}
-            <span className="text-red">القائد</span> الذي لا يُهزم!
+            <span className="text-red font-medium">القائد</span> الذي لا يُهزم!
           </p>
           <div className="flex justify-center mt-4 gap-2">
             <Button variant={"blue"} size={"lg"}>
